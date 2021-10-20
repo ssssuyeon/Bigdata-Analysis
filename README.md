@@ -7,3 +7,4 @@
   - 2주차 수업 : Markdown 연습
   - 3주차 수업 : 추석 휴강
   - 4주차 수업 : R for data science - Data transformataion & Data visualization
+  - 5주차 수업 : R for data science - 
