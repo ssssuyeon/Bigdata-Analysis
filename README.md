@@ -1,9 +1,9 @@
 # Bigdata-Analysis
-연습용 repository입니다.
-후에 수업을 들으며 수정할 예정입니다.
+수업정리 코드 레포지토리입니다.
 
 ## Bigdata Analysis class
 
-  - 1주차 수업 : 
-  - 2주차 수업 : 
-  - 3주차 수업 : 
+  - 1주차 수업 : 코랩, 깃허브 연습 (터미널로 깃허브 파일올리느 연습 - 2name.txt)
+  - 2주차 수업 : Markdown 연습
+  - 3주차 수업 : 추석 휴강
+  - 4주차 수업 : R for data science - Data transformataion & Data visualization
